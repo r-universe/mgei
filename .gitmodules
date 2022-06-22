@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "treasuryTR"]
+	path = treasuryTR
+	url = https://github.com/mgei/treasurytr
+	shallow = true
+	registered = true
